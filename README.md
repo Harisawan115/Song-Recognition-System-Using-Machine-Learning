@@ -27,5 +27,5 @@ A **Song Recognition System** that identifies songs played by a user on their de
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/song-recognition.git
+git clone https://github.com/harisawan115/song-recognition.git
 cd song-recognition
